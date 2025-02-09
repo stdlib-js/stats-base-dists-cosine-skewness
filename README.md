@@ -166,6 +166,8 @@ for ( i = 0; i < 10; i++ ) {
 
 <!-- C interface documentation. -->
 
+* * *
+
 <section class="c">
 
 ## C APIs
